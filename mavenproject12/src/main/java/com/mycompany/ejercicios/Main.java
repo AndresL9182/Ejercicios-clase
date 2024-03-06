@@ -1,3 +1,5 @@
+package com.mycompany.ejercicios;
+
 import java.util.Scanner;
 
 

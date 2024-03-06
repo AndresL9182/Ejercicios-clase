@@ -1,5 +1,5 @@
 
-package ejercicios_clase;
+package com.mycompany.ejercicios;
 
 import java.util.Scanner;
 

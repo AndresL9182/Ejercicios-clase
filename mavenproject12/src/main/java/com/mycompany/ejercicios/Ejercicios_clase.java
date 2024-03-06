@@ -1,5 +1,5 @@
 
-package ejercicios_clase;
+package com.mycompany.ejercicios;
 
 
 public class Ejercicios_clase {
